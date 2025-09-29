@@ -2,6 +2,8 @@
 
 A minimal command-line Pomodoro timer.
 
+![python-pomodoro screenshot](python-pomodoro.png)
+
 ## Features
 
 -   Runs continuous Pomodoro cycles (work → break → repeat)
