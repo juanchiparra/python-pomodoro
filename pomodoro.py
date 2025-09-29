@@ -16,7 +16,7 @@ BELL_MODE = 'tone' if os.name == 'nt' else 'ascii'
 
 # Default ANSI colors
 RESET = "\x1b[0m" # reset all attributes
-GREEN = "\x1b[92m" # bright green
+GREEN = "\x1b[38;5;157m" # bright green
 YELLOW = "\x1b[93m" # bright yellow
 RED = "\x1b[91m" # bright red
 GREY = "\x1b[90m" # Grey
